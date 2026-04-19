@@ -34,4 +34,4 @@ Ejercicio1 {
             System.out.println("El alumno está desaprobado.");
         }
     }
-} // Se cierra la clase Ejercicio1
+} // Se cierra la clase TP3.TP3.TP3.Ejercicio1
